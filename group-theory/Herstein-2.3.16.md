@@ -34,7 +34,7 @@ Now lets rewrite this set in a different syntax:
 
 $$\lbrace e, b, b^2, \ldots, b^{n_2-1}\rbrace = \lbrace e\rbrace \cup \lbrace b^i\rbrace_{i=1}^{n_2-1} = G_{1}\subset G\tag{5}$$
 
-Comparing equations (2) and (5), we see that $G_1$ is itself a group of order $n_2<n$, i.e.,$(\mathcal{O}(G_1) = n_1 < n = \mathcal{O}(G))$. And since $G_1\subset G$, $G_1$ is a proper subgroup of $G$ !! 
+Comparing equations (2) and (5), we see that $G_1$ is itself a group of order $n_2<n$, i.e., $(\mathcal{O}(G_1) = n_1 < n = \mathcal{O}(G))$ . And since $G_1\subset G$, $G_1$ is a proper subgroup of $G$ !! 
 
 So, the assumption statement (4) being true contradicts assumption statement (3). So they both can't be true together! So, 
 

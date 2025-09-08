@@ -1,7 +1,4 @@
-###### Question:  
-
-**If G has no proper subgroups, prove that G is cyclic of order p, where p**
-**is a prime number**
+###### If G has no proper subgroups, prove that G is cyclic of order p, where p is a prime number.
 
 ###### Answer:
 

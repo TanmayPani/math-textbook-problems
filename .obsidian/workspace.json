@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "433a914153b4fe34",
+        "id": "b1d6351e4d2fe3d1",
         "type": "tabs",
         "children": [
           {
-            "id": "7994e2cc1137f167",
+            "id": "dd664c43dabd3d00",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "group-theory/Herstein-2.3.16.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Herstein-2.3.16"
+              "title": "New tab"
             }
           }
         ]
@@ -169,11 +165,12 @@
       "bases:Create new base": false
     }
   },
-  "active": "7994e2cc1137f167",
+  "active": "dd664c43dabd3d00",
   "lastOpenFiles": [
     "README.md",
-    "Untitled.base",
+    "group-theory/Herstein-2.3.17.md",
     "group-theory/Herstein-2.3.16.md",
+    "Untitled.base",
     "group-theory/Herstein 2.3.16.pdf",
     "group-theory"
   ]
